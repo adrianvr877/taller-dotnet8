@@ -1,7 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => Results.Json("Freezing"));
+app.MapGet("/weatherforecast", () => Results.Json("world"));
 
 app.Run();
 // var builder = WebApplication.CreateBuilder(args);

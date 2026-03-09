@@ -31,3 +31,4 @@
 /home/rfelix/taller-cpm/MyApp/obj/Debug/net8.0/MyApp.pdb
 /home/rfelix/taller-cpm/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
 /home/rfelix/taller-cpm/MyApp/obj/Debug/net8.0/ref/MyApp.dll
+/home/rfelix/taller-cpm/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
