@@ -1,7 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/weatherforecast", () => Results.Json("docker using webhooks"));
+app.MapGet("/weatherforecast", () => Results.Json("docker"));
 
 app.Run();
 // var builder = WebApplication.CreateBuilder(args);
